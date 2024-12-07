@@ -5966,3 +5966,5 @@ PermissionError: [WinError 5] Access is denied: 'C:\\Users\\Lenovo'
 [2024-12-07 19:01:21,978: INFO: _internal:  * Restarting with stat]
 [2024-12-07 19:01:24,103: WARNING: _internal:  * Debugger is active!]
 [2024-12-07 19:01:24,107: INFO: _internal:  * Debugger PIN: 230-686-137]
+[2024-12-07 19:19:15,838: INFO: _internal:  * Detected change in 'C:\\Users\\MSI\\dirassa\\ML\\KidneyDiseasePrediction\\main.py', reloading]
+[2024-12-07 19:19:16,176: INFO: _internal:  * Restarting with stat]
