@@ -5958,3 +5958,11 @@ Traceback (most recent call last):
   [Previous line repeated 4 more times]
   File "<frozen os>", line 225, in makedirs
 PermissionError: [WinError 5] Access is denied: 'C:\\Users\\Lenovo'
+[2024-12-07 19:01:21,974: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.39:8080]
+[2024-12-07 19:01:21,976: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-12-07 19:01:21,978: INFO: _internal:  * Restarting with stat]
+[2024-12-07 19:01:24,103: WARNING: _internal:  * Debugger is active!]
+[2024-12-07 19:01:24,107: INFO: _internal:  * Debugger PIN: 230-686-137]
