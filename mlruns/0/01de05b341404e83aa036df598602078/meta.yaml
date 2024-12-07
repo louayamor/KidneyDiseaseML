@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/mlProject/mlruns/0/01de05b341404e83aa036df598602078/artifacts
+end_time: 1733594438358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01de05b341404e83aa036df598602078
+run_name: secretive-mink-580
+run_uuid: 01de05b341404e83aa036df598602078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733594424263
+status: 4
+tags: []
+user_id: MSI

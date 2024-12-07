@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/mlProject/mlruns/0/8e06987076da475f8882b063eae5fc43/artifacts
+end_time: 1733180366805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e06987076da475f8882b063eae5fc43
+run_name: fun-shrimp-378
+run_uuid: 8e06987076da475f8882b063eae5fc43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733180359950
+status: 3
+tags: []
+user_id: Lenovo

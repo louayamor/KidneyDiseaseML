@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/mlProject/mlruns/0/30433c86e0d042cbac648794231c0a22/artifacts
+end_time: 1732149511475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30433c86e0d042cbac648794231c0a22
+run_name: abundant-skunk-362
+run_uuid: 30433c86e0d042cbac648794231c0a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732149506713
+status: 3
+tags: []
+user_id: Lenovo

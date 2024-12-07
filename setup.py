@@ -3,14 +3,12 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-
 __version__ = "0.0.0"
 
-REPO_NAME = "End-to-end-ML-Project-with-MLflow"
-AUTHOR_USER_NAME = "Louay Amor"
+REPO_NAME = "KidneyDiseasePrediction"
+AUTHOR_USER_NAME = "louayamor"
 SRC_REPO = "KidneyDiseasePrediction"
 AUTHOR_EMAIL = "amor.louay20@gmail.com"
-
 
 setuptools.setup(
     name=SRC_REPO,
@@ -19,7 +17,7 @@ setuptools.setup(
     author_email=AUTHOR_EMAIL,
     description="A small python package for ml app",
     long_description=long_description,
-    long_description_content="text/markdown",
+    long_description_content_type="text/markdown",  # Corrected key
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     project_urls={
         "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",

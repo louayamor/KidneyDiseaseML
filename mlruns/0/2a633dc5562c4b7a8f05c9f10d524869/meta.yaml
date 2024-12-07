@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/mlProject/mlruns/0/2a633dc5562c4b7a8f05c9f10d524869/artifacts
+end_time: 1733233153057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a633dc5562c4b7a8f05c9f10d524869
+run_name: shivering-moose-762
+run_uuid: 2a633dc5562c4b7a8f05c9f10d524869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733233149179
+status: 4
+tags: []
+user_id: MSI

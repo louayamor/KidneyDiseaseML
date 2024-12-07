@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/mlProject/mlruns/0/5b30a09baf2b4a219d626a7b5ac38844/artifacts
+end_time: 1733233737754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b30a09baf2b4a219d626a7b5ac38844
+run_name: charming-robin-780
+run_uuid: 5b30a09baf2b4a219d626a7b5ac38844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733233734320
+status: 4
+tags: []
+user_id: MSI

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/mlProject/mlruns/0/a4e07ebbf9434bbfb4fd547c0940c252/artifacts
+end_time: 1733426351944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4e07ebbf9434bbfb4fd547c0940c252
+run_name: marvelous-midge-946
+run_uuid: a4e07ebbf9434bbfb4fd547c0940c252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733426320588
+status: 4
+tags: []
+user_id: MSI

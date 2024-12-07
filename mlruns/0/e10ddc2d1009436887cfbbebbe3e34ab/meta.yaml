@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/mlProject/mlruns/0/e10ddc2d1009436887cfbbebbe3e34ab/artifacts
+end_time: 1733232058002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e10ddc2d1009436887cfbbebbe3e34ab
+run_name: gentle-vole-890
+run_uuid: e10ddc2d1009436887cfbbebbe3e34ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733232055059
+status: 4
+tags: []
+user_id: MSI
