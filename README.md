@@ -139,15 +139,15 @@ export MLFLOW_TRACKING_PASSWORD=99072e0fd2867883dcad2245a0a2f8a758a01137
 
 # 7. Setup github secrets:
 
-    AWS_ACCESS_KEY_ID= AKIA54WIGHQRJ4TADB7O
+    AWS_ACCESS_KEY_ID= AKIA54WIGHQRJSHTXWOX
 
-    AWS_SECRET_ACCESS_KEY= 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
+    AWS_SECRET_ACCESS_KEY= VuzelaldowfivM7t4hY/isLvGq15nbN9a9ggQV8K
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = 954976320546.dkr.ecr.us-east-1.amazonaws.com/mlproject/kidneydisease
+    AWS_ECR_LOGIN_URI = 954976320546.dkr.ecr.us-east-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME =mlprojcontainer
+    ECR_REPOSITORY_NAME = kidneydiseaserepo
 
 ## About MLflow
 
