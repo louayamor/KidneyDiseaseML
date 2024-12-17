@@ -111,7 +111,7 @@ export MLFLOW_TRACKING_PASSWORD=99072e0fd2867883dcad2245a0a2f8a758a01137
 
 ## 3. Create ECR repo to store/save docker image
 
-    - Save the URI:954976320546.dkr.ecr.eu-north-1.amazonaws.com/mlprojcontainer
+    - Save the URI: 954976320546.dkr.ecr.us-east-1.amazonaws.com/mlproject/kidneydisease
 
 ## 4. Create EC2 machine (Ubuntu)
 
@@ -139,11 +139,11 @@ export MLFLOW_TRACKING_PASSWORD=99072e0fd2867883dcad2245a0a2f8a758a01137
 
 # 7. Setup github secrets:
 
-    AWS_ACCESS_KEY_ID=
+    AWS_ACCESS_KEY_ID= AKIA54WIGHQRJ4TADB7O
 
-    AWS_SECRET_ACCESS_KEY=
+    AWS_SECRET_ACCESS_KEY= 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
 
-    AWS_REGION = us-north-1
+    AWS_REGION = us-east-1
 
     AWS_ECR_LOGIN_URI = 954976320546.dkr.ecr.eu-north-1.amazonaws.com
 
