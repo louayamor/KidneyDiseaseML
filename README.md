@@ -111,7 +111,7 @@ export MLFLOW_TRACKING_PASSWORD=99072e0fd2867883dcad2245a0a2f8a758a01137
 
 ## 3. Create ECR repo to store/save docker image
 
-    - Save the URI: 954976320546.dkr.ecr.us-east-1.amazonaws.com/mlproject/kidneydisease
+    - Save the URI: 954976320546.dkr.ecr.us-east-1.amazonaws.com/kidneydiseaserepo
 
 ## 4. Create EC2 machine (Ubuntu)
 
