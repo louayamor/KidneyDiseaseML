@@ -74,7 +74,7 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/louayamor/KidneyDiseasePrediction
 
 export MLFLOW_TRACKING_USERNAME=louayamor
 
-export MLFLOW_TRACKING_PASSWORD=99072e0fd2867883dcad2245a0a2f8a758a01137
+export MLFLOW_TRACKING_PASSWORD= 99072e0fd2867883dcad2245a0a2f8a758a01137
 
 ```
 
