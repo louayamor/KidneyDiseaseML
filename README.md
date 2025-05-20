@@ -1,4 +1,4 @@
-# End-to-end-Machine-Learning-Project-with-MLflow
+# KidneyDisease-Machine-Learning-Project
 
 ## Workflows
 
