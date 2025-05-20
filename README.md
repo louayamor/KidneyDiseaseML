@@ -61,7 +61,7 @@ open up you local host and port
 
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/MedAliRommene/kidneydesease.mlflow \
+MLFLOW_TRACKING_URI=https://dagshub.com/louayamor/kidneydesease.mlflow \
 MLFLOW_TRACKING_USERNAME=louayamor \
 MLFLOW_TRACKING_PASSWORD=99072e0fd2867883dcad2245a0a2f8a758a01137\
 python script.py
@@ -139,16 +139,7 @@ export MLFLOW_TRACKING_PASSWORD= 99072e0fd2867883dcad2245a0a2f8a758a01137
 
 # 7. Setup github secrets:
 
-    AWS_ACCESS_KEY_ID= AKIA54WIGHQRJSHTXWOX
-
-    AWS_SECRET_ACCESS_KEY= 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
-
-    AWS_REGION = us-east-1
-
-    AWS_ECR_LOGIN_URI = 954976320546.dkr.ecr.us-east-1.amazonaws.com
-
-    ECR_REPOSITORY_NAME = kidneydiseaserepo
-
+    
 ## About MLflow
 
 MLflow
